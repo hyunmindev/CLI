@@ -1,7 +1,5 @@
 # CLI
 
-## Warehouse
-[repository](https://github.com/hyunmindev/CLI_Warehouse)
+## [Warehouse](https://github.com/hyunmindev/CLI_Warehouse)
 
-## Tetris
-[repository](https://github.com/hyunmindev/CLI_Tetris)
+## [Tetris](https://github.com/hyunmindev/CLI_Tetris)
